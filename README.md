@@ -55,7 +55,7 @@ BlogStream is a powerful Streamlit-based web application that transforms YouTube
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blogstream.git
+git clone https://github.com/kreativwiz1/blogstream
 cd blogstream
 ```
 
